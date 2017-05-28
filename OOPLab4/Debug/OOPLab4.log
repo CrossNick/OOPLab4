@@ -1,0 +1,14 @@
+﻿Сборка начата 26.05.2017 22:15:39.
+     1>Проект "D:\Универ\лабораторки_прога\OOPLab4\OOPLab4\OOPLab4.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual Studio Community\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOPLab4.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OOPLab4.cpp
+         OOPLab4.cpp
+       Link:
+         D:\Visual Studio Community\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Универ\лабораторки_прога\OOPLab4\Debug\OOPLab4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Универ\лабораторки_прога\OOPLab4\Debug\OOPLab4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Универ\лабораторки_прога\OOPLab4\Debug\OOPLab4.lib" /MACHINE:X86 Debug\OOPLab4.obj
+         Debug\stdafx.obj
+         OOPLab4.vcxproj -> D:\Универ\лабораторки_прога\OOPLab4\Debug\OOPLab4.exe
+     1>Сборка проекта "D:\Универ\лабораторки_прога\OOPLab4\OOPLab4\OOPLab4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.51
